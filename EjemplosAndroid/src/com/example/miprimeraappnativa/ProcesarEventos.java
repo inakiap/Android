@@ -2,7 +2,6 @@ package com.example.miprimeraappnativa;
 
 import android.view.View;
 import android.view.View.OnClickListener;
-import android.widget.TextView;
 
 public class ProcesarEventos implements OnClickListener {
 

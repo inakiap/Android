@@ -41,6 +41,16 @@
             android:minHeight="100dp"
             android:text="@string/textoFinal"
             android:textSize="@dimen/activity_vertical_margin" />
+        
+        
+        <TextView
+            android:id="@+id/txtregistro"
+            android:layout_width="wrap_content"
+            android:layout_height="58dp"
+            android:layout_gravity="bottom|center"
+            android:minHeight="100dp"
+            android:text="Resultado BD"
+            android:textSize="@dimen/activity_vertical_margin" />
 
     </LinearLayout>
 

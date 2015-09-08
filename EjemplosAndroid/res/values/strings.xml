@@ -6,4 +6,13 @@
     <string name="action_settings">Opciones</string>
     <string name="nombreBoton">Dar la vuelta al texto</string>
 	<string name="textoFinal">Mostrar el texto del reves</string>
+	<string name="action_1">Ir a Codigo Natura</string>
+	<string name="action_2">Juego: Emparejar Colores</string>
+	<string name="action_3">eldiario.es</string>
+	<string name="action_4">Notificaciones</string>
+	<string name="action_close">Cerrar</string>
+	<string name="toast_normal">Notificacion normal</string>
+	<string name="toast_gravity">Notificacion "gravity"</string>
+	<string name="toast_personalizado">Notificacion personalizada</string>
+	
 </resources>
